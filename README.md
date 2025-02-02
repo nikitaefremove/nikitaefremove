@@ -8,7 +8,7 @@ I'm an **AI/ML Engineer** with over 3 years of experience specializing in **Larg
 - Python, Bash, SQL
 
 ### **Machine Learning**
-- **Frameworks**: PyTorch, Transformers, Langchain, Scikit-learn, CatBoost, LightGBM, XGBoost
+- **Frameworks**: PyTorch, Transformers, Langchain, Scikit-learn, CatBoost, LightGBM, XGBoost, Peft
 - **NLP**: BERT, LLMs, Text Classification, NER, Summarization, Model Distillation, Fine-tuning (Task-Specific, Domain Adaptation, Instruction, Parameter-Efficient, Low-Rank Adaptation, Reinforcement Learning from Human Feedback)
 - **RecSys**: Content-based filtering, Collaborative Filtering, Hybrid Approaches, Matrix Factorization, Neural Collaborative Filtering (NCF), Session-Based Recommendations
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash, QliK Sense
